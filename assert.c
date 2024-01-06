@@ -1,3 +1,6 @@
+//assert()
+//此函示用以檢查程式中設定為真的條件，若不成立，則終止程式執行。
+
 #include <stdio.h>
 #include <assert.h>
 
